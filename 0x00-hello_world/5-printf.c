@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - prints text using printf
  * Retun: returns 0
  */
