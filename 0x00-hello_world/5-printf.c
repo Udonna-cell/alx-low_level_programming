@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints text using printf
- * Retun: returns 0
+ * Retun: Returns 0
  */
 
 int main(void)
