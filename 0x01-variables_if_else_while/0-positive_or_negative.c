@@ -1,10 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
- *
- *
+/**
+ * main - Prints texts based on condition
+ * Return: returns 0
  */
+
  /* more headers goes there */ 
   
  /* betty style doc for function main goes there */ 
@@ -22,7 +23,7 @@
 	 {
 		 printf("%d is nagative", n);
 	 }
-	 if ( n == 0)
+	 if (n == 0)
 	 {
 		 printf("%d is zero", n);
 	 }
