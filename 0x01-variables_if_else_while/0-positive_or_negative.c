@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-
+#include <stdio.h>
 /**
  * main - Prints texts based on condition
  * Return: returns 0
